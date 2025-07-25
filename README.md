@@ -83,14 +83,6 @@ _*Work in progress. Put smart glove video here later_
 - Same thing we have tried replicating for 5 sensors, because we're making it for a hand glove, that senses the 5 fingers and to check if it achieves multiple request driven access at the same time.
 - Access it here: https://www.tinkercad.com/things/9aipFft7qlW-copy-of-flex-and-lcd
 
-## American Sign Language Code Architecture Testing
-
-#### Checking the media pipe algorithm, Computer vision, NLP Suggestions, Text output, Text output to speech through various TTS models, like gTTS
-
-https://github.com/user-attachments/assets/618fc4ac-aba9-44da-8c69-c3c5e13a91da
-
-_*In plans to achieve a similar output with ISL software..._
-
 # Future Aspects
 #### Explaining it on a layman's view, keeping it completely non technical,
 
